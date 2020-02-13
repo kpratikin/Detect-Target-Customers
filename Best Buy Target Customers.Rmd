@@ -1,6 +1,6 @@
 ---
-title: "Best Buy Case Study"
-author: ""
+title: "Best Buy"
+author: "Pratik Khandelwal"
 output: word_document
 ---
 #==========================================================
@@ -10,7 +10,6 @@ output: word_document
 # You should generally clear the working space at the start of every R session
 rm(list = ls())
 
-#setwd("C:/Users/nertekin/Dropbox/Santa Clara Teaching/OMIS 2392/RProjects/Week-2")
 setwd("E:/SCU Business Analytics/Econometric in R/Case Studies/Case Study 3/")
 
 # install packages
